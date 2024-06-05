@@ -1,0 +1,12 @@
+
+> enabler-frontend@1.0.0 dev
+> next dev
+
+  ▲ Next.js 14.2.3
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 1058ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1059ms (256 modules)
+ GET / 200 in 1124ms
